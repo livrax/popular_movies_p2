@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="movie_error_message">Movie not available</string>
+
+    <string name="movie_picture_content_description">Movie picture</string>
+    <string name="top_rated_movies">Top Rated Movies</string>
+    <string name="upcoming_movies">Upcoming Movies</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="favorites">Favorites</string>
+    <string name="empty_favorites_message">Favorites is empty</string>
+    <string name="trailer_image">Trailer Image</string>
+    <string name="reviews_label">reviews</string>
+    <string name="trailers_label">trailers</string>
+    <string name="movie_poster">movie poster</string>
+    <string name="remove_favorite_message">Removed from Favorites</string>
+    <string name="add_favorite_message">Add to Favorites</string>
+    <string name="warn_add_favorite_message">Cannot add to Favorites</string>
+</resources>
